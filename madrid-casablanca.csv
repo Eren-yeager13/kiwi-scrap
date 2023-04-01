@@ -1,0 +1,121 @@
+Price,Date,Depart_Time,Return_Time,Depart_Dirport,Return_Airport,Airline_Name,Flight_Type,flight_duration
+$66,Tue 13 Jun,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$66,Tue 16 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$66,Fri 16 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$66,Thu 18 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$67,Fri 16 Jun,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$68,Wed 10 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Sun 4 Jun,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Tue 23 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Fri 26 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Wed 7 Jun,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Wed 31 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$69,Wed 7 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$69,Fri 26 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$69,Sat 27 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$69,Wed 24 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$69,Sat 10 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$69,Tue 11 Apr,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$69,Sun 16 Apr,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$69,Sun 16 Apr,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 55m
+$79,Tue 10 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$79,Tue 5 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$79,Wed 6 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$79,Fri 13 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$70,Wed 12 Apr,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 55m
+$79,Wed 6 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$79,Wed 26 Jul,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$79,Sat 9 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Sun 12 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Tue 28 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Sun 8 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Fri 11 Aug,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Wed 4 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Tue 14 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Sun 19 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Sun 26 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Fri 6 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Tue 24 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Tue 21 Nov,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Fri 20 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Tue 12 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Wed 25 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Wed 13 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Wed 18 Oct,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$80,Wed 4 Oct,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Wed 25 Oct,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Wed 13 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Sat 12 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Fri 6 Oct,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Sun 22 Oct,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$80,Thu 10 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$81,Fri 11 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$81,Sun 23 Jul,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Wed 20 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Sun 3 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Fri 4 Aug,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Fri 1 Sep,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Fri 25 Aug,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Tue 15 Aug,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Wed 23 Aug,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$82,Sat 2 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Wed 20 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Fri 1 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Fri 4 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Fri 25 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Thu 17 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Thu 21 Sep,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Wed 23 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Sat 26 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$82,Thu 24 Aug,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$87,Tue 25 Jul,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$81,Tue 28 Mar,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 55m
+$81,Mon 27 Mar,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 55m
+$82,Wed 22 Mar,16:30Madrid,18:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$82,Fri 24 Mar,11:15Madrid,13:05Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$82,Wed 22 Mar,11:15Madrid,13:05Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$82,Thu 23 Mar,11:15Madrid,13:05Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$91,Fri 19 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$93,Wed 21 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$94,Sat 10 Jun,13:55Madrid,14:45Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$94,Sat 27 May,13:55Madrid,14:45Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$95,Fri 26 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$95,Mon 5 Jun,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$98,Wed 17 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$98,Tue 20 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$70,Sun 9 Apr,10:35Madrid,13:50Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Ryanair > Royal Air Maroc,1 stop,5h 15m
+$102,Wed 24 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$102,Sun 28 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$102,Mon 15 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$102,Sat 20 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$102,Wed 17 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$102,Fri 5 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$102,Wed 3 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$95,Fri 14 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$104,Tue 9 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$104,Sat 13 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$104,Wed 10 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$104,Sun 14 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$106,Thu 1 Jun,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$106,Thu 25 May,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,1h 50m
+$100,Tue 28 Mar,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$100,Mon 17 Apr,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 55m
+$102,Tue 21 Mar,11:15Madrid,13:05Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$102,Wed 12 Apr,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,2h 50m
+$104,Tue 18 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$104,Mon 17 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$105,Fri 21 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$106,Sun 16 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$106,Tue 11 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$106,Thu 13 Apr,19:45Madrid,20:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Royal Air Maroc,Direct,2h 50m
+$97,Wed 3 May,07:40Madrid,10:35Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,TAP Portugal,1 stop,3h 55m
+$119,Tue 20 Jun,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$119,Mon 19 Jun,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$119,Thu 27 Jul,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$121,Fri 12 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$121,Thu 11 May,11:25Madrid,12:20Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 55m
+$86,Wed 3 May,11:05Madrid,16:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,TAP Portugal,1 stop,6h 05m
+$86,Fri 5 May,11:05Madrid,16:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,TAP Portugal,1 stop,6h 05m
+$124,Wed 3 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$124,Sun 7 May,16:20Madrid,17:10Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
+$124,Sun 12 Mar,11:15Madrid,13:05Casablanca,Adolfo Suárez Madrid–Barajas,Mohammed V International,Iberia Airlines,Direct,1h 50m
